@@ -1,6 +1,6 @@
 /*
-  Time complexity: n*4^n
-  Space complexity: n*4^n
+  Time complexity: O(n*4^n)
+  Space complexity: O(n*4^n)
 */
 
 public class Solution {
